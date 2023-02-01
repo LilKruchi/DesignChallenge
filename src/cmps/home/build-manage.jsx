@@ -20,7 +20,7 @@ export function BuildManage() {
                     return (
                         <div className="info" key={idx}>
                             <div className="img-container">
-                                <img src={bottomIcon} alt="" />
+                                <img src={service.img} alt="" />
                             </div>
 
                             <div className="info-container">
