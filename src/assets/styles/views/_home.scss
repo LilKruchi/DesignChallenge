@@ -1,0 +1,31 @@
+.home {
+    background-color: $mainClr;
+    max-height: 700px;
+    color: $txtClr;
+    padding: 0 0 250px 0;
+
+    header {
+        margin-bottom: 129px;
+    }
+
+
+    .img-container {
+        position: absolute;
+        right: 0;
+        bottom: 268px;
+    }
+
+    .bottom-img {
+        width: 358px;
+    }
+
+    .img-container-left {
+        position: absolute;
+        top: 250px;
+        margin: 0;
+    }
+
+    .left-img {
+        width: 120px;
+    }
+}

@@ -1,0 +1,8 @@
+@mixin btn($width: 30px, $height: 10px, $clr: white) {
+    border: 2px solid $clr;
+    background-color: transparent;
+    color: $clr;
+    border-radius: 35px;
+    padding: $height $width;
+    font-family: livvic-medium;
+}

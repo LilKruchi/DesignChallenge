@@ -1,0 +1,25 @@
+.hero-container {
+    font-family: livvic-bold;
+    display: flex;
+    flex-grow: 1;
+    justify-content: space-between;
+    align-items: flex-end;
+
+    h1 {
+        font-weight: bold;
+        font-size: 100px;
+        width: 615px;
+        margin: 0;
+
+        span {
+            color: $highlightClr;
+        }
+    }
+
+    p {
+        width: 445px;
+        justify-self: flex-end;
+        font-family: livvic-medium;
+        font-weight: 400;
+    }
+}

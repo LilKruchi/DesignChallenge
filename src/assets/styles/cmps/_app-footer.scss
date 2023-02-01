@@ -1,0 +1,40 @@
+.app-footer {
+    font-family: livvic;
+    padding: 48px 0;
+    background-color: $footerClr;
+    margin: 0;
+    height: 196px;
+    color: $txtClr;
+    flex-direction: inherit;
+
+    p {
+        margin: 0;
+    }
+
+    h2 {
+        font-family: livvic-bold;
+        font-size: 40px;
+    }
+
+    ul {
+        padding: 0;
+        display: flex;
+        gap: 40px;
+
+        a {
+            text-decoration: none;
+            color: $txtClr;
+
+            &:hover {
+                color: $txtClr;
+            }
+        }
+    }
+
+    .web-info {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        flex-grow: 1;
+    }
+}
