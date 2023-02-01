@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e672bf25.css",
-    "main.js": "/static/js/main.05fb9f07.js",
+    "main.js": "/static/js/main.5f004198.js",
     "static/media/Livvic-Bold.ttf": "/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
     "static/media/Livvic-Regular.ttf": "/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
     "static/media/Livvic-Medium.ttf": "/static/media/Livvic-Medium.e1727d156b658481f5c4.ttf",
@@ -12,10 +12,10 @@
     "static/media/home-shapes-bottom.svg": "/static/media/home-shapes-bottom.5772385de698002d00ae1f2f131a7568.svg",
     "index.html": "/index.html",
     "main.e672bf25.css.map": "/static/css/main.e672bf25.css.map",
-    "main.05fb9f07.js.map": "/static/js/main.05fb9f07.js.map"
+    "main.5f004198.js.map": "/static/js/main.5f004198.js.map"
   },
   "entrypoints": [
     "static/css/main.e672bf25.css",
-    "static/js/main.05fb9f07.js"
+    "static/js/main.5f004198.js"
   ]
 }
