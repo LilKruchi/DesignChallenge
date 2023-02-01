@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e672bf25.css",
+    "main.js": "/static/js/main.a2eecdd7.js",
+    "static/media/Livvic-Bold.ttf": "/static/media/Livvic-Bold.089af19ac41ce144a96c.ttf",
+    "static/media/Livvic-Regular.ttf": "/static/media/Livvic-Regular.9994035d65e433690b4a.ttf",
+    "static/media/Livvic-Medium.ttf": "/static/media/Livvic-Medium.e1727d156b658481f5c4.ttf",
+    "static/media/Group 12.svg": "/static/media/Group 12.693b71c2ad141ac16decf76bd5f69420.svg",
+    "static/media/Group 11.svg": "/static/media/Group 11.4f49339de422af72f02e3831fed01972.svg",
+    "static/media/Group 13.svg": "/static/media/Group 13.7e6b8096a261070a124234c16f0cd392.svg",
+    "static/media/home-shapes-left.svg": "/static/media/home-shapes-left.fc581f992b9a5331cf68c28400c7d420.svg",
+    "static/media/home-shapes-bottom.svg": "/static/media/home-shapes-bottom.5772385de698002d00ae1f2f131a7568.svg",
+    "index.html": "/index.html",
+    "main.e672bf25.css.map": "/static/css/main.e672bf25.css.map",
+    "main.a2eecdd7.js.map": "/static/js/main.a2eecdd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e672bf25.css",
+    "static/js/main.a2eecdd7.js"
+  ]
+}
